@@ -1,0 +1,15 @@
+/* CSS Glabal Variables */
+:root{
+    --bgCommon:#212529;
+    --bgCommon2:#F8F8F8;
+    --textCommon:rgba(255, 255, 255, .55);
+}
+.bgCommon{
+    background-color: var(--bgCommon);
+}
+.bgCommon2{
+    background-color: var(--bgCommon2);
+}
+.textCommon{
+    color: var(--textCommon);
+}
